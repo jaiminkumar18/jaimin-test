@@ -1,1 +1,5 @@
-console.log();
+
+let a = 12;
+let b = 14;
+console.log(a+b);
+
